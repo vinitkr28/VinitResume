@@ -2,7 +2,18 @@
 ## _Mobile Application Developer_
 ### _Android | Flutter_
 
-[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
+
+#### File Naming:
+```sh
+vinit_resume_d240206-t2.1-v0.21.0.pdf
+- d(date) YYMMDD
+- t(type) type.subType
+- v(version)
+```
+
+edited by: https://dillinger.io/
+
+[![N|Solid](https://github.com/vinitkr28/VinitResume/blob/main/images/android1.png?raw=true)](https://developer.android.com/?gclid=Cj0KCQiAzoeuBhDqARIsAMdH14GTA80wGx4vbSEVja3-GBxgiUa4KXV9EcAIo_OE8u-dSRvRTRQSI3oaAlqvEALw_wcB&gclsrc=aw.ds)
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
@@ -37,7 +48,7 @@ This text you see here is *actually- written in Markdown! To get a feel
 for Markdown's syntax, type some text into the left window and
 watch the results in the right.
 
-## Tech
+## Certificates
 
 Dillinger uses a number of open source projects to work properly:
 

@@ -10,3 +10,5 @@ vinit_resume_d240206-t2.1-v0.21.0.pdf
 - t(type) type.subType
 - v(version) 
 ```
+
+edited by: https://dillinger.io/

@@ -1,4 +1,7 @@
-# Vinit Kumar
+# **Vinit Kumar**
+
+A results-driven, customer-focused, articulate Senior Engineer who can think “out of the box”. Strong in design and integration of problem-solving skills. Having **12+ years of overall experience** in Android, Java, Kotlin, Flutter, Data Structure, Database and leading Android team with 6 to 8 Mobile App Developers.
+
 ## _Mobile Application Developer_
 ### _Android | Flutter_
 
